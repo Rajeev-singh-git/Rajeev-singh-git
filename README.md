@@ -6,7 +6,7 @@ Java || Spring Boot || Angular
 
 I am a fullstack developer.
 
-* 🌍  I'm based in India.
+* 🌍  I'm an Indian.
 * ✉️  You can contact me at [rajeevsinghup@outlook.com](mailto:rajeevsinghup@outlook.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Java || Spring Boot || Angular
