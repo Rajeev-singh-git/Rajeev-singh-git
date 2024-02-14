@@ -10,7 +10,7 @@ I am a fullstack developer.
 * ✉️  You can contact me at [rajeevsinghup@outlook.com](mailto:rajeevsinghup@outlook.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Java || Spring Boot || Angular
-* ⚡  It doesn't matter what i am, what matters is what i do
+* ⚡  It doesn't matter what i am, what matters is what i do.
 
 <a href="https://www.github.com/Rajeev-singh-git" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Rajeev-singh-git?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
