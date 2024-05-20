@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java || Spring Boot || MicroServices || Angular
 -----------------------------------------------
 
-I am a fullstack developer.............
+I am a fullstack developer..........
 
 * 🌍  I'm an Indian.
 * ✉️  You can contact me at [rajeevsinghup@outlook.com](mailto:rajeevsinghup@outlook.com)
