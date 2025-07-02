@@ -6,16 +6,16 @@ Java || Spring Boot || MicroServices || Angular
 
 I am a fullstack developer
 
-* 🌍  I'm an Indian.
-* ✉️  You can contact me at [rajeevsinghup@outlook.com](mailto:rajeevsinghup@outlook.com)
-* 🧠  I'm learning Angular
-* 🤝  I'm open to collaborating on Java || Spring Boot || Angular
-* ⚡  It doesn't matter what i am, what matters is what i do.
+* 🌍  I'm an Indian.
+* ✉️  You can contact me at  
+* 🧠  I'm learning Angular
+* 🤝  I'm open to collaborating on Java || Spring Boot || Angular
+* ⚡  It doesn't matter what i am, what matters is what i do.
 
 <a href="https://www.github.com/Rajeev-singh-git" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Rajeev-singh-git?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills 
+### Skills  
 
 
 <p align="left">
@@ -31,14 +31,14 @@ src="https://img.shields.io/github/followers/Rajeev-singh-git?logo=github&style=
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Rajeev-singh-git"><img src="https://github-readme-stats.vercel.app/api?username=Rajeev-singh-git&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rajeev-singh-git's GitHub stats" /></a>
+<a href="https://www.github.com/Rajeev-singh-git"><img src="https://github-readme-stats.vercel.app/api?username=Rajeev-singh-git&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rajeev-singh-git's GitHub stats" /></a>
 
-<a href="http://www.github.com/Rajeev-singh-git"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajeev-singh-git&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://www.github.com/Rajeev-singh-git"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajeev-singh-git&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Rajeev-singh-git"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rajeev-singh-git&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://www.github.com/Rajeev-singh-git"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rajeev-singh-git&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Rajeev-singh-git" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev-singh-git&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div>
