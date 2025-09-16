@@ -6,7 +6,7 @@ Java || Spring Boot || MicroServices || JavaScript || Angular || React ||
 
 I am a fullstack developer
 
-* 🌍  I'm an Indian
+* 🌍  I'm an Indian ...
 * ✉️  You can contact me at  
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Java || Spring Boot || Angular
