@@ -4,7 +4,7 @@ Hi   ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Java || Spring Boot || MicroServices || JavaScript || Angular || React || 
 -----------------------------------------------
 
-I am a fullstack developer
+I am a fullstack developer ...
 
 * 🌍  I'm an Indian
 * ✉️  You can contact me at  
