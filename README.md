@@ -39,6 +39,9 @@ src="https://img.shields.io/github/followers/Rajeev-singh-git?logo=github&style=
 
 <a href="https://github.com/Rajeev-singh-git" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev-singh-git&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev-singh-git&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400" />
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div>
